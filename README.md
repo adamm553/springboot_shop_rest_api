@@ -1,4 +1,4 @@
-### Bread Shop REST API
+### Bakery REST API
 
 This project is a simple RESTful API for managing bread products in a bread shop. It's built using Java with the Spring Boot framework. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on bread products.
 
